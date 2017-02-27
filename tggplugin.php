@@ -3,7 +3,7 @@
  * Plugin Name: The Good Gun
  * Plugin URI: https://github.com/sherman-thymes
  * Description: The Good Gun
- * Version: 1.0.1
+ * Version: 1.0.0
  * Author: The Good Gun
  * Author URI: https://github.com/sherman-thymes
  * License: GPL2
