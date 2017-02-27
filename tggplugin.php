@@ -32,7 +32,7 @@ http://stackoverflow.com/questions/4321914/wp-insert-post-with-a-form
 */
 
 defined('ABSPATH') or die('No script kiddies please!');
-define('TGGPLUGIN_GITHUB', 'https://github.com/sherman-thymes/thegoodgun/');
+define('TGGPLUGIN_GITHUB', 'https://github.com/sherman-thymes/tggplugin/');
 define('TGGPLUGIN_PLUGINKEY', 'Xrj6xz9mE49s5XprIt2zj1fSEihw69uS');
 
 if(is_admin()){
