@@ -328,7 +328,7 @@ class TGGPLUGIN
 				$new_post = array(
 						'ID' => '',
 						'post_author' => $user->ID, 
-						'post_category' => array($post_category),
+						'post_category' => 0,
 						'post_content' => $post_content, 
 						'post_excerpt' => $post_excerpt, 
 						'post_title' => $post_title,
